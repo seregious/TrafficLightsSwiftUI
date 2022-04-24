@@ -11,6 +11,7 @@
 		A3FA84F128115F030079E697 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FA84F028115F030079E697 /* ContentView.swift */; };
 		A3FA84F328115F070079E697 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3FA84F228115F070079E697 /* Assets.xcassets */; };
 		A3FA84F628115F070079E697 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3FA84F528115F070079E697 /* Preview Assets.xcassets */; };
+		A3FA84FD28115F3E0079E697 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FA84FC28115F3E0079E697 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A3FA84F028115F030079E697 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A3FA84F228115F070079E697 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3FA84F528115F070079E697 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A3FA84FC28115F3E0079E697 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A3FA84EE28115F030079E697 /* TrafficLightsSwiftUIApp.swift */,
 				A3FA84F028115F030079E697 /* ContentView.swift */,
+				A3FA84FC28115F3E0079E697 /* CircleView.swift */,
 				A3FA84F228115F070079E697 /* Assets.xcassets */,
 				A3FA84F428115F070079E697 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3FA84FD28115F3E0079E697 /* CircleView.swift in Sources */,
 				A3FA84F128115F030079E697 /* ContentView.swift in Sources */,
 				A3FA84EF28115F030079E697 /* TrafficLightsSwiftUIApp.swift in Sources */,
 			);
